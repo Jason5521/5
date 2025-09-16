@@ -3,7 +3,7 @@ Call me Ishmael. Some years ago - never mind how long precisely - having little 
 
 ### There now is your insular city of the manhattoes, belted round by wharves as Indian isles by coral reefs 
 - commerce surrounds it with her surf.
-
+Right and left, the streets take you waterward. Its extreme down-town is the battery, where that noble mole is washed by the waves, and cooled by breezes, which a few hours previous were out of sight of land. Look at the crowds of water-gazers there.
 
 ~~Where does it come from?~~
 ~~Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.~~
